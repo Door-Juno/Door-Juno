@@ -4,5 +4,5 @@
 
 ***
 
-# 해달 웹기초 부트겜프 Repo
+# 해달 웹기초 부트캠프 Repo
 * [Haedal_web_bootcamp](https://github.com/Door-Juno/Haedal_Web_bootcamp)
